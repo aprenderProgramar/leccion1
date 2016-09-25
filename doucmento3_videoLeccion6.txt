@@ -1,0 +1,6 @@
+esto es de prueba documento 3
+se sube un fichero para probar la suba desde de mi PC a github usando 
+la aplicaicon sourceTree
+
+Hora: 9:32
+

@@ -2,3 +2,6 @@ estas pruebas hechas para subir a github desde mi maquina
 
 
 hora: 8:46
+
+
+otro texto modificado .. a la hora 9:12
